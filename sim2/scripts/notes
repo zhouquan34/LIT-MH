@@ -1,0 +1,5 @@
+Scripts used to generate the table in the manuscript. 
+For convenience, the number of local modes are stored in the file modes.txt.
+To calculate the number of local modes from simulation, the RWMH algorithm has to be re-run with "-R 1" which takes a lot of time.
+For informed algorithms, one can use command "perl scripts/multi.pl i2" to get the mean number of local modes. 
+
