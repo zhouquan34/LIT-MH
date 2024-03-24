@@ -1,4 +1,0 @@
-To compile the code, you need to install GSL first and specify its path in the Makefile. 
-
-If you use a linux machine, you may directly use the compiled executable gimh-linux. Rename it by 'mv gimh-linux gimh'. 
-
